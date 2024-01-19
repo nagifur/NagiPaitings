@@ -1,0 +1,10 @@
+{
+  "name": "NagiPaintings",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/nagifur",
+  "description": "Adds various paintings and posters of art made by nagifur",
+  "dependencies": [
+    "femboytv-LethalPosters-1.2.0",
+    "femboytv-LethalPaintings-1.2.0"
+  ]
+}
